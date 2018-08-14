@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'zurich_btroman';
+    src:url(../fonts/zurich_bt-webfont.ttf) format("truetype");
+    src: url(../fonts/'zurich_bt-webfont.woff2') format('woff2'),
+         url(../fonts/'zurich_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'zurich_condensedbold';
+    src:url(../fonts/zurichbt-boldcondensed-webfont.ttf) format("truetype");
+    src: url(../fonts/'zurichbt-boldcondensed-webfont.woff2') format('woff2'),
+         url(../fonts/'zurichbt-boldcondensed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'zurich_cn_btregular';
+    src:url(../fonts/zurich_cn_bt.ttf) format("truetype");
+    src: url(../fonts/'zurich_cn_bt-webfont.woff2') format('woff2'),
+         url(../fonts/'zurich_cn_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'klavikamedium';
+    src:url(../fonts/'klavika_medium-webfont.ttf') format("truetype");
+    src: url(../fonts/'klavika_medium-webfont.woff2') format('woff2'),
+         url(../fonts/'klavika_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
